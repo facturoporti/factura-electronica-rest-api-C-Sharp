@@ -123,7 +123,7 @@ static void Main(string[] args)
 
 ## Probar Timbrado CFDI
 
-**Ejecuta o depura la aplicación ** automáticamente se generará el CFDI utilizando el servicio Rest API, al término obtendrás un objeto Json de respuesta: 
+** Ejecuta o depura la aplicación ** automáticamente se generará el CFDI utilizando el servicio Rest API, al término obtendrás un objeto Json de respuesta: 
 
 ```json
 {
