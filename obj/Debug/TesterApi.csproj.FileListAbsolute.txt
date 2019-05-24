@@ -1,0 +1,17 @@
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\obj\Debug\TesterApi.csproj.CoreCompileInputs.cache
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\bin\Debug\TesterApi.exe.config
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\bin\Debug\TesterApi.exe
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\bin\Debug\TesterApi.pdb
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\bin\Debug\Newtonsoft.Json.dll
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\bin\Debug\Newtonsoft.Json.xml
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\obj\Debug\TesterApi.csproj.CopyComplete
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\obj\Debug\TesterApi.exe
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\obj\Debug\TesterApi.pdb
+C:\CodigoFuente\LiberarSolicitudes\LiberarSolicitudes\TesterApi\obj\Debug\TesterApi.csprojAssemblyReference.cache
+C:\Alejandro\Pruebas\TesterApi\bin\Debug\TesterApi.exe.config
+C:\Alejandro\Pruebas\TesterApi\bin\Debug\TesterApi.exe
+C:\Alejandro\Pruebas\TesterApi\bin\Debug\TesterApi.pdb
+C:\Alejandro\Pruebas\TesterApi\obj\Debug\TesterApi.csproj.CoreCompileInputs.cache
+C:\Alejandro\Pruebas\TesterApi\obj\Debug\TesterApi.csproj.CopyComplete
+C:\Alejandro\Pruebas\TesterApi\obj\Debug\TesterApi.exe
+C:\Alejandro\Pruebas\TesterApi\obj\Debug\TesterApi.pdb
