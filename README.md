@@ -71,9 +71,11 @@ static void Main(string[] args)
             api.Cancelar(cancelacion);
 
         }
-		
+		//Pruebas
 		private string Url = "http://wcfpruebas.facturoporti.com.mx/Timbrado/Servicios.svc/";
-       // private string Url = "http://localhost:52860/Servicios.svc/";
+       
+       // Produccion
+       // private string Url = "http://wcf.facturoporti.com.mx/Timbrado/Servicios.svc/";
 
         public string Timbrar(string datos)
         {
