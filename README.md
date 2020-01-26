@@ -279,6 +279,6 @@ Si deseas agregar o eliminar información descarga el **diccionario de datos** q
 
 ## License
 
-Desarrollado en México por [FacturoPorTi](https://www.FacturoPorTi.com). Available with [MIT License](LICENSE).
+Desarrollado en México por [FacturoPorTi](https://www.FacturoPorTi.com). Available with [MIT License](https://github.com/facturoporti/factura-electronica-rest-api-C-Sharp/blob/master/Licencia).
 ****
 
