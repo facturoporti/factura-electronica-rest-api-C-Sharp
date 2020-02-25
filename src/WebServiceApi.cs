@@ -23,8 +23,8 @@ namespace TesterApi
 
         }
 
-        private string Url = "http://wcfpruebas.facturoporti.com.mx/Timbrado/Servicios.svc/";
-       // private string Url = "http://localhost:52860/Servicios.svc/";
+        private string Url = "https://wcfpruebas.facturoporti.com.mx/Timbrado/Servicios.svc/";
+       // private string Url = "https://localhost:52860/Servicios.svc/";
 
         public string Timbrar(string datos)
         {
