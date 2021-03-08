@@ -8,9 +8,9 @@
 
 </div>
 
-## Actualizacion importante de los servicios
+## Actualizacion importante de nueva API 1 de abril 2021
 
-Estos servicios dejarán de estar disponible a partir del 1 de abril del 2021, la nueva versión de la api tiene estos y mas herramientas que te facilitarán y ahorran mucho tiempo en validaciones o penalizaciones del sat en auditorías, te recomendamos ampliamente revisar la nueva documentación en https://developers.facturoporti.com.mx/reference/api-desarrollo-facturoporti como parte de las nuevas características podrás:
+**Estos servicios dejarán de estar disponible a partir del 1 de abril del 2021**, la nueva versión de la api tiene estos y mas herramientas que te facilitarán y ahorran mucho tiempo en validaciones o penalizaciones del sat en auditorías, te recomendamos ampliamente revisar la nueva documentación en https://developers.facturoporti.com.mx/reference/api-desarrollo-facturoporti como parte de las nuevas características podrás:
 
 - Puedes realizar consultas o descargas de los catálogos del sat actualizados.
 - Timbra cualquier tipo de cfdi con json o xml
