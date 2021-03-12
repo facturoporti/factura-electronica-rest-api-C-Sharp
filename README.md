@@ -33,7 +33,7 @@ Este servicios son ideales para usarlo en aplicaciones móviles y/o software que
 
 ## Generador de código fuente
 
-En cada servicio encontraras una herramienta que generará el código de programación necesario para que lo integres en tu propia aplicación. Tenemos muchos lenguajes soportados como: **cURL, PHP, Java, C#, Javascript, Python, Ruby, etc.** Te dejamos algunos ejemplos de lo que hace nuestro generador de código de programación, para que veas que fácil es usar los servicios.
+En cada servicio encontraras una herramienta que generará el código de programación necesario para que lo integres en tu propia aplicación. Tenemos muchos lenguajes soportados como: **cURL, PHP, Java, C#, Javascript, Python, Ruby, etc.** Te dejamos algunos ejemplos de lo que hace nuestro generador de código de programación, para que veas que fácil es usar los servicios. Diríjete a https://developers.facturoporti.com.mx/reference/api-desarrollo-facturoporti 
 
 ![C# badge](cURL.PNG)
 ![C# badge](Php.PNG)
@@ -52,9 +52,11 @@ Una vez descargado ambos abre Postman e importar el proyecto
 ![C# badge](Foldder.PNG)
 ![C# badge](importado.PNG)
 
+La documentación completa esta en https://developers.facturoporti.com.mx/reference/api-desarrollo-facturoporti 
+
 ## Ejemplos de cfdi
 
-Como sabemos que hay muchos tipos de documentos que se pueden generar, te dejamos unas guías de llenado de archivos en formato Json  **[descargar ejemplos aquí](https://software.facturoporti.com.mx/TaaS/Json/Api/Ejemplos.zip) ** que te asegurarán que puedas timbrar tus documentos sin problemas. Solo necesitas cambiar la **fecha de creación** del cfdi. Estan divididos en:
+Como sabemos que hay muchos tipos de documentos que se pueden generar, te dejamos unas guías de llenado de archivos en formato Json  **[descargar ejemplos aquí](https://software.facturoporti.com.mx/TaaS/Json/Api/Ejemplos.zip)** que te asegurarán que puedas timbrar tus documentos sin problemas. Solo necesitas cambiar la **fecha de creación** del cfdi. Estan divididos en:
 
   * Factura
   * Carta Porte
