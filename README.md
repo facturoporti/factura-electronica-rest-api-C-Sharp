@@ -49,6 +49,8 @@ Postman es una herramienta que tiene muchas opciones para probar servicios rest 
 Una vez descargado ambos abre Postman e importar el proyecto
 
 ![C# badge](Importar.PNG)
+![C# badge](Foldder.PNG)
+![C# badge](importado.PNG)
 
 ## Ejemplos de cfdi
 
