@@ -50,7 +50,7 @@ Una vez descargado ambos abre Postman e importar el proyecto
 
 ![C# badge](Importar.PNG)
 ![C# badge](Foldder.PNG)
-![C# badge](importado.PNG)
+![C# badge](importado.png)
 
 La documentación completa esta en https://developers.facturoporti.com.mx/reference/api-desarrollo-facturoporti 
 
