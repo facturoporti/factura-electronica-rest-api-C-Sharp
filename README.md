@@ -2,7 +2,7 @@
 
 ![banner](GitHub.png)
 
-# Código en C# llamadas a servicios de Rest API
+# Código para llamadas a servicios de Rest API
 
 ![C# badge](subtitulo-badge.png)
 
